@@ -3,3 +3,5 @@
 settings.py
 /env
 /.vscode
+*.txt
+*.csv
