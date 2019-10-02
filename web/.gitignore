@@ -1,6 +1,7 @@
 *.pyc
 *.log
 config.py
+*.db
 /env
 /.vscode
 *.txt
